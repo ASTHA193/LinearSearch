@@ -1,3 +1,3 @@
 # LinearSearch
 
-[Way to the code](https://github.com/ASTHA193/LinearSearch/tree/master)
+[Way to the code](https://github.com/ASTHA193/LinearSearch/commit/64a8f6b77831ce78b17e3a489a000bbaff984dfe)
